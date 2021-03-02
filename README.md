@@ -17,8 +17,8 @@ _Keep in mind that in order to properly build out the relationships between an `
 ![Flatiron Zoo](https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/flatiron-zoo-exercise/Image_124_ZooGraphic.png)
 
 ### Zoo Class
-- A `zoo` should be initialized with a name and a location, which should both be passed as strings.
-- `Zoo#location` should return the location of the zoo instance.
+<!-- - A `zoo` should be initialized with a name and a location, which should both be passed as strings. -->
+<!-- - `Zoo#location` should return the location of the zoo instance. -->
 - `Zoo#name` should return the name of the zoo instance.
 - `Zoo.all` should return an array of all the zoo instances.
 - `Zoo#animals` should return all the animals that a specific instance of a zoo has.
